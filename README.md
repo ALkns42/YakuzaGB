@@ -21,11 +21,11 @@ Attempt at translating the Yakuza franchise's world and combat to the Game Boy v
 * Completing combat nets you money, usually around 5000-20000 Yen
 
 ## Items
-* 3 Recovery items, with 4 tiers:
-|          | Toughness (Health) | Tauriner (Heat)  | Staminan (Health/Heat)* |
-|----------|--------------------|------------------|-------------------------|
-| Minimum  | Toughness Z        | Tauriner         | Staminan X              |
+| /\\/\\/\\/\\/\\ | Toughness (Health) | Tauriner (Heat)  | Staminan (Health/Heat)* |
+| --- | --- | --- | --- |
+| Minimum | Toughness Z | Tauriner | Staminan X |
 | Moderate | Toughness ZZ       | Tauriner+        | Staminan XX             |
 | Marginal | Toughness Emperor  | Tauriner++       | Staminan Royale         |
 | Maximum  | Toughness Infinity | Tauriner Maximum | Staminan Spark          |
-* *Staminan recovers less health and heat for the cost of doing both in one drink
+
+\*Staminan recovers less health and heat for the cost of doing both in one drink
